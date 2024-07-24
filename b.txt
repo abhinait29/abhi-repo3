@@ -1,3 +1,7 @@
+
 hi! iam edited version of b.txt in master
 2nd of b.txt in master
+=========================================
+hi! i am editted version of b.txt in s1
+
 
